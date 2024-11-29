@@ -25,6 +25,7 @@ To run the analysis, follow these steps:
 
 2. **Run the Script**: Open R or RStudio and run the `run_analysis.R` script. This script will read the data, perform the necessary transformations, and generate the `tidy_data.txt` file with the tidy data set.
 
+
 ## About the Data
 
 The data used in this project were collected from the accelerometers of the Samsung Galaxy S smartphone. A full description of the data is available at the following link: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
